@@ -18,9 +18,11 @@ directories directly under them.
 
 The filenames are descriptive so each file can stand alone out of its
 directory structure. The file naming standard is as following;
+
 `[Daily or Weekly] - [Table Name] - [ISO Date Format yyyy-MM-dd].csv`
 
 Example:
+
 `Daily - 50 Leading Mining and Oil Stocks - 2009-10-20.csv`
 
 ### Daily Summary Files
@@ -73,9 +75,10 @@ Example:
 ## Credits
 
 [Australian Financial Review](http://www.afr.com/)
+
 [Australian Financial Review - Share Tables](http://www.afr.com/share_tables/#daily_tables)
 
 ## License
 
 This is public data and as far as I can tell from the Australian
-Financial Review website there are no restrictions on its use.
+Financial Review website, there are no restrictions on its use.
