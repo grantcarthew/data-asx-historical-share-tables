@@ -1,9 +1,6 @@
 # ASX Historical Share Tables
 
-These historical share tables cover trading in all main board
-Australian Stock Exchange stocks.
-
-This project contains an archive of these tables in CSV format.
+This project contains an archive of historical share tables which cover trading in all main board Australian Stock Exchange stocks.
 
 ## Installation
 
@@ -11,16 +8,16 @@ This project contains an archive of these tables in CSV format.
 
 ## Usage
 
-All files are of the CSV file format which can be opened with data analysis
-applications such as Microsoft's Excel. Alternatively you can import the
-data into a Database for further manipulation.
+All files are in the CSV file format which can be opened with data analysis
+applications such as Microsoft's Excel or LibraOffice Calc. Alternatively
+you can import the data into a Database for further manipulation.
 
-The files are stored in a directory structure under the csv directory.
-Under csv you will find a Daily or Weekly directory with the table name
-directory under that.
+The files are stored in a directory structure under the `csv` directory.
+You will find there a `Daily` and `Weekly` directory with the table
+directories directly under them.
 
-The filenames are complete so each file can stand alone out of its
-directory structure. The file name standard is the following;
+The filenames are descriptive so each file can stand alone out of its
+directory structure. The file naming standard is as following;
 `[Daily or Weekly] - [Table Name] - [ISO Date Format yyyy-MM-dd].csv`
 
 Example:
@@ -71,7 +68,7 @@ Example:
 
 ## History
 
-2016-01-02: Initial Commit
+2016-01-02: Initial Commit and README updates.
 
 ## Credits
 
