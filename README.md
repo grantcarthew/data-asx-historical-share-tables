@@ -1,4 +1,4 @@
-# Historical Share Tables
+# ASX Historical Share Tables
 
 These historical share tables cover trading in all main board
 Australian Stock Exchange stocks.
